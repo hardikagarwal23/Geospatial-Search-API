@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Patna Plaza Charger",
+    "lat": 25.7203,
+    "lon": 84.8678,
+    "plug_type": "chademo",
+    "status": "offline",
+    "kw_output": 50
+  },
+  {
+    "name": "Lahore Charging Bay",
+    "lat": 31.2778,
+    "lon": 74.2979,
+    "plug_type": "type2",
+    "status": "operational",
+    "kw_output": 22
+  },
+  {
+    "name": "Nashik Plaza Charger",
+    "lat": 20.3278,
+    "lon": 73.9732,
+    "plug_type": "ccs2",
+    "status": "operational",
+    "kw_output": 150
+  },
+  {
+    "name": "Vancouver EV Corner",
+    "lat": 49.5219,
+    "lon": -123.1153,
+    "plug_type": "tesla_nacs",
+    "status": "maintenance",
+    "kw_output": 150
+  },
+  {
+    "name": "Lagos Pitstop",
+    "lat": 6.5937,
+    "lon": 3.3712,
+    "plug_type": "ccs2",
+    "status": "operational",
+    "kw_output": 50
+  },
+  {
+    "name": "Bogota Station",
+    "lat": 4.5286,
+    "lon": -74.2535,
+    "plug_type": "tesla_nacs",
+    "status": "maintenance",
+    "kw_output": 150
+  },
+  {
+    "name": "Ahmedabad Grid",
+    "lat": 23.3571,
+    "lon": 72.5943,
+    "plug_type": "ccs2",
+    "status": "operational",
+    "kw_output": 60
+  },
+  {
+    "name": "Shenzhen Charge Point",
+    "lat": 22.3786,
+    "lon": 114.3186,
+    "plug_type": "ccs2",
+    "status": "operational",
+    "kw_output": 90
+  },
+  {
+    "name": "Bucharest Terminal",
+    "lat": 44.5597,
+    "lon": 26.2516,
+    "plug_type": "tesla_nacs",
+    "status": "maintenance",
+    "kw_output": 250
+  }
+]
